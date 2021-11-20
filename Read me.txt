@@ -1,0 +1,19 @@
+Team name : Bits and bots
+people - Bhargav Petla(18070)
+         Sai Teja Gilukara(18210)
+         Ajay Choudhury(18018)
+
+We have mentioned a detail explanation and how to execute in execution video.
+1)Our data set attached along with code
+
+Work flow
+1) Data set collection - 6 classes
+   Bhargav Petla - collected 2 classes
+   Sai Teja - collected 2 classes
+   Ajay - Collected 2 classes
+2) Data set modification and Pre processing 
+   Bhargav Petla
+3) CNN model training and saving best model based on test accuracy
+   Sai Teja 
+4) From best model predicting images and improving accuracy
+   Ajay
